@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GithubApi</string>
+    <string name="no_internet">No internet available</string>
+    <string name="fetching_data_msg">Fetching repositories</string>
+    <string name="fetching_repo_msg">Fetching repository</string>
+    <string name="no_repo_found">No Repo found</string>
+    <string name="please_wait_msg">Please wait...</string>
+</resources>
